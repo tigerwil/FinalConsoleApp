@@ -23,6 +23,8 @@ namespace FinalConsoleApp
             }
         }
 
+        //Read Only property to get full name
+        //test
         public string FullName
         {
             get
