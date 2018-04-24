@@ -22,5 +22,16 @@ namespace FinalConsoleApp
                 return LastName + ", " + FirstName;
             }
         }
+
+        public string FullName
+        {
+            get
+            {
+                return FirstName + " " + LastName;
+                
+            }
+        }
+
+
     }
 }
