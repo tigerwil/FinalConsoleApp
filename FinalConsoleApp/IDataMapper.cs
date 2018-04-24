@@ -13,7 +13,7 @@ namespace FinalConsoleApp
      * - Interfaces define properties, methods, and events which are members
      *   of the interface
      * - Interfaces are the ultimate abstraction.
-     * /
+     */
     internal interface IDataMapper<T>
     {
         /*
